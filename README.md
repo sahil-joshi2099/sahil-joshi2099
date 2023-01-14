@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<div style="display: flex;" dir="auto">
+<div dir="auo" style="display: flex;" >
 <a href="https://dev.to/sahiljoshi785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
   
 
