@@ -11,26 +11,4 @@
 
 - 📫 How to reach me **sahiljoshi.personal@gmail.com**
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<body>
-    <div dir="auo" style="display: flex;" >
-        <div>
-      <a href="https://dev.to/sahiljoshi785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
-        </div>
-        <div>
-      <a href="https://stackoverflow.com/users/17470869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17470869" height="30" width="40" /></a>
-        </div>
-        <div>
-      <a href="https://auth.geeksforgeeks.org/user/sahiljoshi6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
-      </div>
-        </div>
-</body>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-joshi2099&" alt="sahil-joshi2099" /></p>
