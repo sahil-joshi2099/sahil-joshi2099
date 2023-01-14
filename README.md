@@ -29,10 +29,4 @@
   
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-joshi2099&show_icons=true&locale=en&layout=compact" alt="sahil-joshi2099" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-joshi2099&show_icons=true&locale=en" alt="sahil-joshi2099" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-joshi2099&" alt="sahil-joshi2099" /></p>
