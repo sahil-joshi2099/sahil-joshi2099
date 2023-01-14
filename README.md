@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Joshi</h1>
 <h3 align="center">A passionate embedded c Developer.</h3>
 
+<div style="padding=10px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-joshi2099&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-joshi2099" /> </p>
+ </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-joshi2099" alt="sahil-joshi2099" /></a> </p>
 
