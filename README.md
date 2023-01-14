@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Joshi</h1>
-<h3 align="center">A passionate Backend developer.</h3>
+<h3 align="center">A passionate embedded c Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-joshi2099&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-joshi2099" /> </p>
 
@@ -7,23 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [N/A](N/A)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **CCNP**
 
-- 👯 I’m looking to collaborate on [N/A](N/A)
-
-- 🤝 I’m looking for help with [N/A](N/A)
-
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on <a herf="https://dev.to/sahiljoshi785">Dev.to/sahil-joshi</a>
 
 - 💬 Ask me about **C,C++,Python,Computer networking**
 
 - 📫 How to reach me **sahiljoshi.personal@gmail.com**
 
-- 📄 Know about my experiences [N/A](N/A)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
