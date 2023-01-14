@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<div style="display=flex;">
 <a href="https://dev.to/sahiljoshi785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
   
 
@@ -26,7 +27,7 @@
   
 
 <a href="https://auth.geeksforgeeks.org/user/sahiljoshi6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
-  
+</div>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-joshi2099&" alt="sahil-joshi2099" /></p>
