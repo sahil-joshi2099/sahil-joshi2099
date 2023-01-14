@@ -20,14 +20,16 @@
 <p align="left">
 
 <div dir="auo" style="display: flex;" >
+  <div>
 <a href="https://dev.to/sahiljoshi785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
-  
-
+  </div>
+  <div>
 <a href="https://stackoverflow.com/users/17470869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17470869" height="30" width="40" /></a>
-  
-
+  </div>
+  <div>
 <a href="https://auth.geeksforgeeks.org/user/sahiljoshi6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahiljoshi6378" height="30" width="40" /></a>
 </div>
+  </div>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-joshi2099&" alt="sahil-joshi2099" /></p>
