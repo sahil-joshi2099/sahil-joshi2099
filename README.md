@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CCNP**
 
-- 📝 I regularly write articles on <a herf="https://dev.to/sahiljoshi785">Dev.to/sahil-joshi</a>
+- 📝 I regularly write articles on : https://dev.to/sahiljoshi785
 
 - 💬 Ask me about **C,C++,Python,Computer networking**
 
